@@ -1,0 +1,37 @@
+.logo{
+    color: white;
+    position: absolute;
+    height: 0.76%;
+    float: left;
+    top:6% ;
+    text-emphasis-color: white;
+
+  }
+  .links{
+    float:right;
+    position:absolute;
+    top: auto;
+    margin:5%;
+    right: 0.050%;
+    top:0%;
+    background-color:white;
+  }
+  .botton{
+    float: left;
+    background-color: aqua;
+  }
+  body,html{
+    height:100%
+  }
+  .back{
+    color: white;
+    background-image:url(health.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover
+  }
+  .banner{
+    text-decoration-color: white;
+
+  }
