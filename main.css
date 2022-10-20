@@ -1,0 +1,42 @@
+.person{
+    float:center;
+    text-align: left;
+    background-image: radial-gradient(#553c9a, #ee4b2b);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.bck{
+    color: white;
+    background-image:url(background.jpg);
+    background: position 100px;
+    height: 100%;
+}
+.ceo{
+    float:left;
+    text-align: center;
+    background-image: radial-gradient(#553c9a, #ee4b2b);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    
+}
+
+.achieve{
+    text-align:left;
+    font-size: -7000%;
+    font-weight: 100;
+    margin-right: 50%;
+  font-weight: 600;
+  font-family: 'Roboto', sans-serif;
+  color: hsl(270, 9%, 91%);
+  
+  
+
+  
+  
+  
+}
+
+.footer{
+    text-align: center;
+}
+
